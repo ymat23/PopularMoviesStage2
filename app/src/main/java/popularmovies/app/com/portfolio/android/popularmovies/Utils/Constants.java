@@ -12,5 +12,5 @@ public class Constants {
     public static final String MOVIE_DB_BASE_URL = "http://api.themoviedb.org";
     public static final String MOVIE_POSTER_BASE_URL = "http://image.tmdb.org/t/p/w185/";
     public static final String INTENT_EXTRA_KEY_MOVIE_DETAILS = "MovieDetails";
-    public static final String MOVIE_DB_API_KEY = ""; // insert api key here
+    public static final String MOVIE_DB_API_KEY = "fc1d0a48f6a77203469987cce4cba183";
 }
